@@ -1,0 +1,4 @@
+Sam Gupta
+Skills: Python, scikit-learn, Pandas, Numpy, Docker, AWS
+Experience: 3 years at XYZ Corp as ML Engineer (2018–2021)
+Projects: Image classification with TensorFlow, model deployment on AWS cloud.

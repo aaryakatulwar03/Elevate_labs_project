@@ -1,0 +1,4 @@
+Arya Katulwar
+Skills: Python, TensorFlow, PyTorch, scikit-learn, Docker, AWS, Streamlit
+Experience: 2+ years in ML and AI projects (2019–2021)
+Projects: Built and deployed NLP models using TensorFlow and PyTorch, deployed on AWS with Docker.

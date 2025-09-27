@@ -1,0 +1,4 @@
+Candidate,Similarity,SkillsMatched,SkillsRequired,MatchedSkillsList,ExpYears,SkillMatch%,FinalScore
+resume_arya.txt,0.2387,6,7,"aws, docker, python, pytorch, scikit-learn, tensorflow",2.0,85.7,0.95
+resume_sam.txt,0.2374,5,7,"aws, docker, python, scikit-learn, tensorflow",3.0,71.4,0.9216
+resume_alex.txt,0.092,1,7,python,4.0,14.3,0.3811

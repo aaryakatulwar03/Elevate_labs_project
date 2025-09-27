@@ -1,0 +1,4 @@
+Alex Chen
+Skills: Java, Python, Spark, Kafka
+Experience: 4 years as Software Engineer (2017–2021)
+Projects: Backend services and cloud infrastructure on GCP; some ML internships.
